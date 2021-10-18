@@ -27,7 +27,7 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/관련이미지.jpg">
+  <img src="./img/대표이미지.jpg">
 - 동영상
 - {% include 파일명.html id="od4fRJP67a0" %}
 
