@@ -43,7 +43,7 @@
 
 > ### 대표이미지 기반 :<img src="/image/메인 컨셉.jpg">
 
-> ### 컨셉 기반:<img src="/image/서브 컨셉2.jpg">
+> ### 컨셉 기반:<img src="/image/서브 컨셉 2.jpg">
 
 <br><br>
 
