@@ -29,7 +29,7 @@
 - 이미지  
   <img src="/image/대표이미지.jpg">
 - 동영상
-- [![예제](http://img.youtube.com/vi/RlQEoJaLQRA/0.jpg)](https://youtu.be/RlQEoJaLQRA?t=0s) 
+- [![예제](http://img.youtube.com/vi/od4fRJP67a0/0.jpg)](https://youtu.be/od4fRJP67a0?t=0s) 
 
 <br><br>
 
