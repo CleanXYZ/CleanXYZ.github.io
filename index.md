@@ -279,4 +279,4 @@ Unity 사용
 # [키보드 이벤트 ] <a name='8'></a>
 
 - 이미지  
-  <img src="/image/플로우차트.jpg">
+  <img src="/image/플로우차트.JPG">
