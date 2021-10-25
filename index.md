@@ -106,9 +106,9 @@ Unity 사용
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|주인공 물고기|<img src="/image/축구장.png" width="500">|
-|2|물고기|<img src="/image/골대.png" width="500">|
-|3|배경|<img src="/image/홍길동선수.png" height="300">|
+|1|주인공 물고기|<img src="/image/주인공.jpg" width="500">|
+|2|물고기|<img src="/image/적.jpg" width="500">|
+|3|배경|<img src="/image/배경.jpg" height="300">|
 
 
 
