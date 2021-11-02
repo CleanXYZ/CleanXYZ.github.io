@@ -296,7 +296,7 @@ Unity 사용
 -6주차
   종합 및 추가사항
   
-  ![image](https://user-images.githubusercontent.com/91928424/139765514-ae285dfa-5723-4a67-95ff-9df08c9764f7.png)
+  ![image](https://user-images.githubusercontent.com/91928424/139765514-ae285dfa-5723-4a67-95ff-9df08c9764f7.png) 
 
 
 # [키보드 이벤트에 대한 흐름도] <a name='9'></a>
